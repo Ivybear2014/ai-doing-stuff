@@ -1,0 +1,16 @@
+.uh {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(88, 175, 255);
+}
+body {
+    background-color: #b8f6f9;
+}
+.od {
+    color: rgb(255, 255, 255);
+}
+.bl {
+    color: rgb(26, 90, 208);
+}
+#objects,#accuracy{
+    color: rgb(26, 90, 208);
+}
